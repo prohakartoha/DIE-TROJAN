@@ -1,6 +1,9 @@
 # DIE-TROJAN
 die trojan | creepypasta
 
+C# - https://dotnet.microsoft.com/ru-ru/download/dotnet/8.0
+C++ - https://learn.microsoft.com/ru-ru/cpp/windows/latest-supported-vc-redist?view=msvc-170
+
 This is a gdi Trojan in C++ made by proha kartoha.
 donate: https://www.donationalerts.com/r/proha_kartoha
 
